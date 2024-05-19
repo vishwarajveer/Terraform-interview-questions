@@ -1,5 +1,5 @@
 # Terraform-Architecture
-##1. Terraform Core:
+1. Terraform Core:
 • The Brain: Terraform core is the engine driving the entire infrastructure provisioning process. It's responsible for:
 • Configuration Parsing: Reads and interprets your Terraform configuration files (written in HashiCorp Configuration Language - HCL).
 • Dependency Graph: Analyzes your resources and builds a dependency graph to determine the order in which resources should be created, updated, or destroyed.
